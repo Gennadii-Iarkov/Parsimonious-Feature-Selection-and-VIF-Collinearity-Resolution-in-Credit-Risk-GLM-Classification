@@ -7,5 +7,5 @@ This report examines and validates a logit-linked Generalized Linear Model (GLM)
 
 ## 📂 Repository Directory
 * `Credit_Risk_Report.pdf` - The formal report compiled with LaTeX.
-* `src/GLM_Model_Pipeline.ipynb` - The jupyter notebook code.
+* `src/Default_Classification.ipynb` - The jupyter notebook code.
 * `requirements.txt` - environment requirements.
