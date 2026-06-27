@@ -1,0 +1,6 @@
+numpy
+pandas
+statsmodels
+category_encoders
+scikit-learn
+matplotlib
